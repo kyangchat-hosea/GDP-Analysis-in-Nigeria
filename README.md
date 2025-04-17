@@ -36,5 +36,5 @@ The current quarter GDP is N22.61 trillion following a 12.40% increase compared 
 
 
 ## Download 
-<a href = "https://github.com/kyangchat-hosea/GDP-Analysis-in-Nigeria/raw/refs/heads/main/images/Kyangchat%20Zachariah%20GDP%20Project.pbix" Download the Power BI file </a>
+<a href = "https://github.com/kyangchat-hosea/GDP-Analysis-in-Nigeria/raw/refs/heads/main/images/Kyangchat%20Zachariah%20GDP%20Project.pbix"> Download the Power BI file </a>
 
