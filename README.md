@@ -28,11 +28,11 @@ The data was first normalised in Excel before being transformed in Power Query. 
 ## Dashboard Insight
 ### Overview 
 
-![Over_view] (https://github.com/kyangchat-hosea/GDP-Analysis-in-Nigeria/blob/main/images/gdp_portfolio_main.png)
+![Over_view](https://github.com/kyangchat-hosea/GDP-Analysis-in-Nigeria/blob/main/images/gdp_portfolio_main.png)
 
 ### GDP by Sector Analysis 
 
-![GDP by Sector] (https://github.com/kyangchat-hosea/GDP-Analysis-in-Nigeria/blob/main/images/gdp_portfolio_by_sector.png)
+![GDP by Sector](https://github.com/kyangchat-hosea/GDP-Analysis-in-Nigeria/blob/main/images/gdp_portfolio_by_sector.png)
 
 ## Recommendations
 
